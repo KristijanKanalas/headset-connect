@@ -4,6 +4,8 @@ This is a simple script that lets you connect your bluetooth headset as an A2DP
 
 ## Usage
 
+**Note** You have to have the headset paired already
+
 - clone this repository
 
 - copy `connect_headphones.sh` to `connect_headphones`
