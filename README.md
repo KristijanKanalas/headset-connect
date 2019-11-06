@@ -19,3 +19,8 @@ This is a simple script that lets you connect your bluetooth headset as an A2DP
 Additional step, you can put put `connect_headphones` in your path and run a command when you want to connect to your headset like so `sudo mv connect_headphones /usr/local/bin/connect_headphones`
 
 And... enjoy music :)
+
+## Support
+If you would like to support me
+
+[![](https://cdn.buymeacoffee.com/buttons/default-blue.png)](https://www.buymeacoffee.com/wSd4q6U)
